@@ -6,4 +6,5 @@ The repository contains the following artifacts:
 
   - Benchmark Runs and Numbers from Frontier and Perlmutter
   - Application invocation codes and scripts
+  - Application data and performance numbers
   
