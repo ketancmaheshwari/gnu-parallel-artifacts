@@ -1,0 +1,2 @@
+rsync -a /lustre/orion/proj-shared/stf019/ /mnt/bb/$USER/
+

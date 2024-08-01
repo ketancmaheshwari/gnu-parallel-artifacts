@@ -1,0 +1,264 @@
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)
+/lustre/orion/stf019/proj-shared/Ahmad-Darshan/darshan_archival_storage_app_nvmerw.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_total[col_name] = df_total[col_name].astype('str').apply(md5_hash)

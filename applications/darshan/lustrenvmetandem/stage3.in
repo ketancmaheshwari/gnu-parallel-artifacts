@@ -1,0 +1,3 @@
+parallel -j36 python3 /lustre/orion/stf019/proj-shared/Ahmad-Darshan/lustrenvmetandem/darshan_archival_storage_app_nvmer_lustrew.py ::: {1..12} ::: {0..2} ::: 2023
+find /lustre/orion/proj-shared/stf218/data/lake/summit_darshan_processed/2022  -type f | parallel -j32 -X rsync -R -Ha {} /mnt/bb/ketan2/ 
+find /mnt/bb/ketan2/lustre/orion/proj-shared/stf218/data/lake/summit_darshan_processed/2019 -type f | parallel -j32 rm -f {}

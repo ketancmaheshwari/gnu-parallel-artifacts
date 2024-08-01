@@ -1,0 +1,7 @@
+https://unix.stackexchange.com/questions/10454/is-it-possible-to-roll-a-symlink-to-a-new-file-without-affecting-any-open-file
+
+python ${NEOX_DIR}/megatron/tokenizer/train_tokenizer.py --json_input_dir ${DATA_DIR} --tokenizer_output_path ./material/tokens/material_vocab.json  --tokenizer_type BPE
+python ${NEOX_DIR}/tools/preprocess_data.py --input ${DATA_DIR} --jsonl-keys text --output-prefix material --vocab mat-spm/mat_spm.model --tokenizer-type SPMTokenizer --append-eod --workers 4
+
+https://stackoverflow.com/questions/62870293/extract-the-jq-record-only-when-match-the-first-and-last-name
+
